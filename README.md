@@ -17,4 +17,4 @@ Additional decorative elements will be added to the web page as part of a future
 [MIT License](https://github.com/mionova/Mouse-movement-detection/blob/main/LICENSE) 
 &nbsp;
 
-<img src="https://github.com/mionova/Mouse-movement-detection/tree/main/demo/img-eyes.png">
+<img src="https://github.com/mionova/Mouse-movement-detection/blob/main/demo/img-eyes.png">
